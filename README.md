@@ -35,7 +35,7 @@
 
   ---
 
-  ### 🚀 Projetos Atuais
+  ### 🔬 Projetos Atuais
 
   **1. Tradução de Biossinais com IA**
   - **Descrição:** Minha pesquisa principal foca no desenvolvimento de modelos de deep learning para traduzir sinais biológicos brutos (como EEG ou EMG) em dados digitais estruturados para análise.
@@ -100,7 +100,7 @@ I'm a **Computer Engineering Student** from Serra, Espírito Santo, Brazil. I am
 
 ---
 
-### 🚀 Ongoing Projects
+### 🔬 Ongoing Projects
 
 **1. AI-Powered Biosignal Translation**
 - **Description:** My primary research focuses on developing deep learning models to translate raw biological signals (like EEG or EMG) into structured digital data for analysis.
