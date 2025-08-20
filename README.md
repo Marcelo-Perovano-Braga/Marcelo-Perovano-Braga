@@ -15,8 +15,10 @@
 
   ### 🎓 Formação Acadêmica
 
-**Bacharelado em Engenharia da Computação** | [Multivix](https://www.multivix.edu.br/) | Serra, Brasil | Previsão de Conclusão: 2028
+**Bacharelado em Engenharia da Computação** | [Multivix](https://www.multivix.edu.br/) | Serra, Brasil | 
+  *Previsão de Conclusão: 2028*
 - *Disciplinas Relevantes: Estruturas de Dados & Algoritmos, Processamento Digital de Sinais, Inteligência Artificial, Sistemas de Bancos de Dados.*
+  
   ---
   
   ### 💡 Áreas de Interesse
