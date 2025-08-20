@@ -45,6 +45,7 @@
   **2. Navegação em Bancos de Dados com IA**
   - **Descrição:** Um projeto que utiliza agentes de IA para permitir a interação com bancos de dados através de linguagem natural, possibilitando que usuários consultem informações de forma rápida e fácil, sem precisar escrever SQL.
   - **Tecnologias:** Python, CrewAI, LangChain.
+  - _(Repository for this project is currently private as it is part of ongoing academic work)_
 
   ---
 
