@@ -4,7 +4,18 @@
 
 I'm a **Computer Engineering Student** from Serra, Espírito Santo, Brazil. I am currently researching applications of AI in biological signal processing. I'm passionate about building innovative solutions that bridge the gap between technology and biology.
 
-* 📫 How to reach me: [LinkedIn](URL_TO_YOUR_LINKEDIN_PROFILE)
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="URL_TO_YOUR_LINKEDIN_PROFILE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/marceloperovanobraga" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 ---
 
@@ -48,5 +59,4 @@ I'm a **Computer Engineering Student** from Serra, Espírito Santo, Brazil. I am
 <p align="left">
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"> </a>
-    <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a>
-</p>
+    <a href="https://github.com/" target="_blank"> <img src="https://img.shields
