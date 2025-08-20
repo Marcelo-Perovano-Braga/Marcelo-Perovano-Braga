@@ -4,10 +4,25 @@
 
 I'm a **Computer Engineering Student** from Serra, Espírito Santo, Brazil. I am currently researching applications of AI in biological signal processing. I'm passionate about building innovative solutions that bridge the gap between technology and biology.
 
-* 🔭 I’m currently working on ...
-* 🌱 I’m currently learning ...
-* 💬 Ask me about **AI, Python, and Signal Processing**.
 * 📫 How to reach me: [LinkedIn](URL_TO_YOUR_LINKEDIN_PROFILE)
+
+---
+
+### 🧠 Areas of Interest
+
+- Artificial Intelligence & Machine Learning
+- Biological Signal Processing
+- Neuroengineering & Brain-Computer Interfaces
+- Real-Time Data Analysis
+
+---
+
+### 🚀 Ongoing Projects
+
+**1. AI-Powered Biosignal Translation**
+- **Description:** My primary research focuses on developing deep learning models to translate raw biological signals (like EEG or EMG) into structured digital data for analysis.
+- **Technologies:** Python, TensorFlow, C.
+- _(Repository for this project is currently private as it is part of ongoing academic work)_
 
 ---
 
