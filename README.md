@@ -21,7 +21,7 @@ I'm a **Computer Engineering Student** from Serra, Espírito Santo, Brazil. I am
 
 **1. AI-Powered Biosignal Translation**
 - **Description:** My primary research focuses on developing deep learning models to translate raw biological signals (like EEG or EMG) into structured digital data for analysis.
-- **Technologies:** Python, TensorFlow.
+- **Technologies:** Python, TensorFlow, C.
 - _(Repository for this project is currently private as it is part of ongoing academic work)_
 
 **2. AI-Powered Database Navigation**
@@ -38,6 +38,7 @@ I'm a **Computer Engineering Student** from Serra, Espírito Santo, Brazil. I am
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"> </a>
   <a href="https://www.crewai.com/" target="_blank"> <img src="https://img.shields.io/badge/CrewAI-4D4DFF?style=for-the-badge" alt="CrewAI"> </a>
+  <a href="https://www.langchain.com/" target="_blank"> <img src="https://img.shields.io/badge/LangChain-009688?style=for-the-badge&logo=langchain" alt="LangChain"> </a>
 </p>
 
 ---
