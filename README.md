@@ -1,4 +1,4 @@
-### Hi there, I'm Marcelo 👋
+### Welcome! I'm Marcelo, and I'm glad you're here.👨‍💻
 
 ---
 
@@ -28,7 +28,7 @@ I'm a **Computer Engineering Student** from Serra, Espírito Santo, Brazil. I am
 
 ---
 
-### 🚀 Ongoing Projects
+### 🔬 Ongoing Projects
 
 **1. AI-Powered Biosignal Translation**
 - **Description:** My primary research focuses on developing deep learning models to translate raw biological signals (like EEG or EMG) into structured digital data for analysis.
