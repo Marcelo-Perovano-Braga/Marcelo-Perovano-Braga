@@ -39,7 +39,7 @@
 
   **1. Tradução de Biossinais com IA**
   - **Descrição:** Minha pesquisa principal foca no desenvolvimento de modelos de deep learning para traduzir sinais biológicos brutos (como EEG ou EMG) em dados digitais estruturados para análise.
-  - **Tecnologias:** Python, TensorFlow, C.
+  - **Tecnologias:** Python, TensorFlow.
   - _(O repositório deste projeto é privado, pois faz parte de um trabalho acadêmico em andamento)_
 
   **2. Navegação em Bancos de Dados com IA**
@@ -103,7 +103,7 @@ I'm a **Computer Engineering Student** from Serra, Espírito Santo, Brazil. I am
 
 **1. AI-Powered Biosignal Translation**
 - **Description:** My primary research focuses on developing deep learning models to translate raw biological signals (like EEG or EMG) into structured digital data for analysis.
-- **Technologies:** Python, TensorFlow, C.
+- **Technologies:** Python, TensorFlow.
 - _(Repository for this project is currently private as it is part of ongoing academic work)_
 
 **2. AI-Powered Database Navigation**
