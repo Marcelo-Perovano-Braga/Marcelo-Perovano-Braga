@@ -2,7 +2,7 @@
 
 ---
 
-I'm a **Computer Engineering Student** from Serra, Espírito Santo, Brazil. I am currently researching applications of AI in biological signal processing. I'm passionate about building innovative solutions that bridge the gap between technology and biology.
+I'm a **Computer Engineering Student**🎓 from Serra, Espírito Santo, Brazil. I am currently researching applications of AI in biological signal processing. I'm passionate about building innovative solutions that bridge the gap between technology and biology🧪.
 
 ---
 
