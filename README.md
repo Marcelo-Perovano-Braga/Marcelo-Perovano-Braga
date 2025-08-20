@@ -38,6 +38,7 @@ I'm a **Computer Engineering Student** from Serra, Espírito Santo, Brazil. I am
 **2. AI-Powered Database Navigation**
 - **Description:** A project that leverages AI agents to enable database interaction through natural language, allowing users to quickly and easily query information without writing SQL.
 - **Technologies:** Python, CrewAI, LangChain.
+- _(Repository for this project is currently private as it is part of ongoing academic work)_
 
 ---
 
