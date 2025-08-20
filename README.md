@@ -82,7 +82,7 @@ I'm a **Computer Engineering Student** from Serra, Espírito Santo, Brazil. I am
 
 **B.Sc. in Computer Engineering** | [Multivix](https://www.multivix.edu.br/) | Serra, Brazil
 *Expected Graduation: 2028*
-- *Relevant Coursework: Data Structures & Algorithms, Digital Signal Processing*
+- *Relevant Coursework: Data Structures & Algorithms, Digital Signal Processing, Artificial Intelligence, Database Systems*
 
 ---
 
