@@ -12,8 +12,8 @@ I'm a **Computer Engineering Student** from Serra, Espírito Santo, Brazil. I am
 
 - Artificial Intelligence & Machine Learning
 - Biological Signal Processing
+- AI Agents & Large Language Models
 - Neuroengineering & Brain-Computer Interfaces
-- Real-Time Data Analysis
 
 ---
 
@@ -21,8 +21,12 @@ I'm a **Computer Engineering Student** from Serra, Espírito Santo, Brazil. I am
 
 **1. AI-Powered Biosignal Translation**
 - **Description:** My primary research focuses on developing deep learning models to translate raw biological signals (like EEG or EMG) into structured digital data for analysis.
-- **Technologies:** Python, TensorFlow, C.
+- **Technologies:** Python, TensorFlow.
 - _(Repository for this project is currently private as it is part of ongoing academic work)_
+
+**2. AI-Powered Database Navigation**
+- **Description:** A project that leverages AI agents to enable database interaction through natural language, allowing users to quickly and easily query information without writing SQL.
+- **Technologies:** Python, CrewAI, LangChain.
 
 ---
 
