@@ -19,12 +19,12 @@ I'm a **Computer Engineering Student** from Serra, Espírito Santo, Brazil. I am
 
 ---
 
-### 🧠 Areas of Interest
+### 💡 Areas of Interest
 
-- Artificial Intelligence & Machine Learning
-- Biological Signal Processing
-- AI Agents & Large Language Models
-- Neuroengineering & Brain-Computer Interfaces
+- Artificial Intelligence & Machine Learning⚙️
+- Biological Signal Processing⚡
+- AI Agents & Large Language Models🤖
+- Neuroengineering & Brain-Computer Interfaces🧬
 
 ---
 
