@@ -60,4 +60,5 @@ I'm a **Computer Engineering Student**🎓 from Serra, Espírito Santo, Brazil. 
 <p align="left">
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"> </a>
-    <a href="https://github.com/" target="_blank"> <img src="https://img.shields
+    <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a>
+</p>
